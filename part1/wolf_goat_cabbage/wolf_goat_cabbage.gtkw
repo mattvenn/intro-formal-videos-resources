@@ -1,22 +1,22 @@
 [*]
 [*] GTKWave Analyzer v3.3.102 (w)1999-2019 BSI
-[*] Thu Oct 24 10:36:26 2019
+[*] Mon Oct 28 14:27:09 2019
 [*]
 [dumpfile] "/home/matt/work/fpga/symbiotic-eda/formal-verification-video-series-plan/part1/wolf_goat_cabbage/wolf_goat_cabbage/engine_0/trace0.vcd"
-[dumpfile_mtime] "Thu Oct 24 10:33:57 2019"
+[dumpfile_mtime] "Thu Oct 24 13:24:22 2019"
 [dumpfile_size] 1348
 [savefile] "/home/matt/work/fpga/symbiotic-eda/formal-verification-video-series-plan/part1/wolf_goat_cabbage/wolf_goat_cabbage.gtkw"
 [timestart] 0
-[size] 1670 948
-[pos] 1932 469
-*-4.850154 76 76 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[size] 1333 570
+[pos] 0 270
+*-4.850154 76 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 [sst_width] 253
 [signals_width] 323
 [sst_expanded] 1
-[sst_vpaned_height] 279
+[sst_vpaned_height] 148
 @24
 smt_step
-@28
+@29
 wolf_goat_cabbage.clk
 @200
 -
