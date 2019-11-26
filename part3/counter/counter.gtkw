@@ -1,0 +1,47 @@
+[*]
+[*] GTKWave Analyzer v3.3.102 (w)1999-2019 BSI
+[*] Tue Nov 26 15:03:55 2019
+[*]
+[dumpfile] "/home/matt/work/fpga/symbiotic-eda/formal-verification-video-series-plan/part3/counter/counter/engine_0/trace_induct.vcd"
+[dumpfile_mtime] "Tue Nov 26 15:03:48 2019"
+[dumpfile_size] 1927
+[savefile] "/home/matt/work/fpga/symbiotic-eda/formal-verification-video-series-plan/part3/counter/counter.gtkw"
+[timestart] 51
+[size] 1602 831
+[pos] 56 496
+*-5.025105 200 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 253
+[signals_width] 311
+[sst_expanded] 1
+[sst_vpaned_height] 230
+@420
+smt_step
+@28
+smt_clock
+@200
+-
+@28
+counter.clk
+@c00025
+counter.counter[15:0]
+@29
+(0)counter.counter[15:0]
+(1)counter.counter[15:0]
+(2)counter.counter[15:0]
+(3)counter.counter[15:0]
+(4)counter.counter[15:0]
+(5)counter.counter[15:0]
+(6)counter.counter[15:0]
+(7)counter.counter[15:0]
+(8)counter.counter[15:0]
+(9)counter.counter[15:0]
+(10)counter.counter[15:0]
+(11)counter.counter[15:0]
+(12)counter.counter[15:0]
+(13)counter.counter[15:0]
+(14)counter.counter[15:0]
+(15)counter.counter[15:0]
+@1401205
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0
