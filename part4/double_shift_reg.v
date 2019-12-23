@@ -1,3 +1,9 @@
+// Creator: Dan Gisselquist, Ph.D.
+//      Gisselquist Technology, LLC
+//
+////////////////////////////////////////////////////////////////////////////////
+//
+// Copyright (C) 2018-2019, Gisselquist Technology, LLC
 `default_nettype    none
 module double_shift_reg(i_clk, i_ce, i_data, o_data);
     input   wire    i_clk, i_ce;
